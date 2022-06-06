@@ -1,3 +1,17 @@
+Importe :
+  - typescript -D
+  - @types/react -D
+  - @types/node -D
+  - sass
+  - react-icons
+  - stripe
+
+o _app ficará por volta de todos os conponentes igual um ContextProvider
+
+O _document só será carregado uma vez, já o _app será carregado toda vez que trocar de página.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
