@@ -5,6 +5,9 @@ Importe :
   - sass
   - react-icons
   - stripe
+  - next-auth
+  - @types/next-auth -D
+  - faunadb
 
 o _app ficará por volta de todos os conponentes igual um ContextProvider
 
